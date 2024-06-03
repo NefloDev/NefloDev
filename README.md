@@ -38,6 +38,6 @@ I am an imaginative backend developer crafting my unique digital universe piece 
 ### 🔥 Streak
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NefloDev&theme=nightowl&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 ### Github Profile Stats
-<a href=""><img alt="NefloDev's Github Stats" ref="https://github-readme-stats.vercel.app/api?username=NefloDev&show_icons=true&hide_border=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NefloDev's Github Stats" ref="https://github-readme-stats.vercel.app/api?username=NefloDev&show_icons=true&hide_border=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NefloDev&layout=compact&theme=nightowl&hide_border=true" alt="NefloDev's Top Languages"/></a>
 <br/>
