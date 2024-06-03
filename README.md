@@ -33,9 +33,13 @@ I am an imaginative backend developer crafting my unique digital universe piece 
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg"/>
 <br/>
 
-## 📊 Stats
-### 🔥 Streak
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=NefloDev&theme=nightowl&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-### Github Profile Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NefloDev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=NefloDev&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=true" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NefloDev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NefloDev&langs_count=8&layout=compact&theme=nightowl&hide_border=true" height="192px"/></a>
+<details>
+  <summary><h2></h2></summary>
+  <h3>🔥 Streak</h3>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=NefloDev&theme=nightowl&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+  <h3>💻 Github Profile Stats</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NefloDev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/? username=NefloDev&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NefloDev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NefloDev&langs_count=8&layout=compact&theme=nightowl&hide_border=true" height="192px"/></a>
+</details>
+
+
