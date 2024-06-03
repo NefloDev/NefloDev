@@ -38,4 +38,4 @@ I am an imaginative backend developer crafting my unique digital universe piece 
 <h3>💻 Github Profile Stats</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NefloDev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=NefloDev&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=true" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NefloDev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NefloDev&langs_count=8&layout=compact&theme=nightowl&hide_border=true" height="192px"/></a>
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="NefloDev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NefloDev&bg_color=011627&color=ffeb95&line=e2c8f4&point=7fdbca&hide_border=true"/></a>
