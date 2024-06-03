@@ -1,6 +1,8 @@
 # 🚀 NefloDev
 **`Software Alchemist`**
-I am an imaginative backend developer crafting my unique digital universe piece by piece. I build all my projects from the ground up, handling everything from planning and design to solving real-life problems with code.
+<p>
+  I am an imaginative backend developer crafting my unique digital universe piece by piece. I build all my projects from the ground up, handling everything from planning and design to solving real-life problems with code.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandro-nebot-flores-b325b7214/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
