@@ -22,7 +22,6 @@ I am an imaginative backend developer crafting my unique digital universe piece 
     <img alt="repos" title="All GitHub repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-3d1a6e?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </p>
-<br/>
 
 ### 🛠️ Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain.svg"/>
