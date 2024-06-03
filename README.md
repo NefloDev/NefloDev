@@ -11,7 +11,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/neflodev"><img width="32px" alt="Dev.to" title="NefloDev Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="hhttps://ko-fi.com/neflodev"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://ko-fi.com/neflodev"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 <p align="left">
   <a href="https://github.com/NefloDev?tab=followers">
