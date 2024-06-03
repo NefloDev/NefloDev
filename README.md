@@ -22,6 +22,7 @@ I am an imaginative backend developer crafting my unique digital universe piece 
     <img alt="repos" title="All GitHub repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-3d1a6e?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </p>
+<br/>
 
 ### 🛠️ Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain.svg"/>
@@ -31,13 +32,12 @@ I am an imaginative backend developer crafting my unique digital universe piece 
 <img align="left" alt="JetpackCompose" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jetpackcompose/jetpackcompose-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"/>
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg"/>
+<br/>
 
 ## 📊 Stats
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=NefloDev&theme=nightowl&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-</a>
-<a href="[https://github-readme-stats.vercel.app](https://github.com/anuraghazra/github-readme-stats)">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NefloDev&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages"/>
-</a>
-
-![NefloDev](https://github-readme-stats.vercel.app/api?username=NefloDev&show_icons=true&hide_border=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl)
+### 🔥 Streak
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NefloDev&theme=nightowl&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+### Github Profile Stats
+<a href=""><img alt="NefloDev's Github Stats" ref="https://github-readme-stats.vercel.app/api?username=NefloDev&show_icons=true&hide_border=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NefloDev&layout=compact&theme=nightowl&hide_border=true" alt="NefloDev's Top Languages"/></a>
+<br/>
