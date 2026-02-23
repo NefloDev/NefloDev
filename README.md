@@ -38,12 +38,3 @@
 <img align="left" alt="Swagger" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg"/>
 <img align="left" alt="JUnit" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original.svg"/>
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original.svg"/>
-
-<br/>
-
-<h3>🔥 Streak</h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=NefloDev&theme=nightowl&hide_border=true" alt="GitHub Streak" /></a>
-<h3>💻 Github Profile Stats</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NefloDev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=NefloDev&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=true" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NefloDev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NefloDev&langs_count=8&layout=compact&theme=nightowl&hide_border=true" height="192px"/></a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="NefloDev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NefloDev&bg_color=011627&color=ffeb95&line=e2c8f4&point=7fdbca&hide_border=true"/></a>
